@@ -6,6 +6,8 @@
 
 **Please don't use the first section where you just pick a name to log in as unless you are locally developing something**
 
+**This code isn't that great, I don't think I'm even using nonces... I might update this eventually, butt don't hold your breath**
+
 ## Instructions
 
 Download the zip and install it via the WordPress admin, or unzip/clone to the plugins folder, in a folder named `jhl-auto-login`
