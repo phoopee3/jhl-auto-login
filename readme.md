@@ -8,7 +8,7 @@
 
 ## Instructions
 
-Download the zip and install it via the WordPress admin, or unzip/clone to the plugins folder
+Download the zip and install it via the WordPress admin, or unzip/clone to the plugins folder, in a folder named `jhl-auto-login`
 
 Go to the plugins page and activate it
 
