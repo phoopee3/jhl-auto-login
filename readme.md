@@ -6,7 +6,7 @@
 
 **Please don't use the first section where you just pick a name to log in as unless you are locally developing something**
 
-**This code isn't that great, I don't think I'm even using nonces... I might update this eventually, butt don't hold your breath**
+**This was a quick POC, I don't think I'm even using nonces... I might update this eventually as it's turned out to be useful for a few people**
 
 ## Instructions
 
